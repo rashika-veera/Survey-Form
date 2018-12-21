@@ -1,0 +1,110 @@
+.container{
+  background-color:black;
+  border-radius:20px;
+  margin-top:110px;
+  margin-left:190px;
+  margin-right:190px;
+ 
+}
+input[type=submit] {
+    background-color: 	#00BFFF;
+    color: white;
+    padding: 15px 20px;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer; margin-left:230px;margin-bottom:30px;
+}
+
+input[type=submit]:hover {
+    background-color: 	#C71585;
+}
+.s4{
+    font-family:'Vollkorn SC';
+  color:white;
+  text-align:center;
+  font-size:50px;
+ padding:30px;
+}
+.e{
+  color:white;
+  font-size:16px;
+  margin-top:-67px;
+  text-align:center;
+  font-family: 'Waiting for the Sunrise';
+  word-spacing:3px;
+}
+.sm{
+  width:100px;
+  float:right;
+  margin-top:-95px;
+  margin-right:170px;
+}
+.q1{
+    font-family:"Almendra";
+  word-spacing:3px;
+  font-size:20px;
+  color:white;margin-left:39px;
+  TEXT-ALIGN:CENTER;
+}
+.in{
+  margin-left:230px;
+  color:black;font-family: 'Voltaire';
+ text-align:center;border-radius:10px;
+   font-size:20px;
+}
+.q2{font-family:"Almendra";
+  word-spacing:3px;
+  font-size:20px;
+  color:white;
+margin-left:200px;
+  
+}
+.fu{
+ color:white;
+font-family: 'Voltaire';  font-size:20px;
+  margin-left:230px;border-radius:10px;
+}
+.f{
+color:black;
+  font-size:20px;
+  margin-left:230px;
+font-family: 'Voltaire';border-radius:10px;
+}
+#drop-down{
+   font-size:20px;
+   margin-left:147px;
+   width:340px;
+  margin-bottom:-30px;
+  font-family: 'Voltaire';border-radius:10px;
+ }
+.fin{
+  margin-left:230px;
+  font-size:25px;border-radius:10px;
+}
+.fir{
+  width:400px;
+  height:98px;color:black;
+  font-size:20px;
+  margin-left:230px;
+font-family: 'Voltaire';
+  border-radius:10px;
+}
+.q3{
+  font-family:"Almendra";
+  word-spacing:3px;
+  font-size:20px;
+  color:white;
+margin-left:240px;
+}
+footer{
+   width: 99vw;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 0% 0%;
+  text-align: center;
+  background-color: #000;
+  opacity: 1;
+  z-index: 100;
+ color:white;
+}
